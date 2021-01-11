@@ -1,5 +1,5 @@
 # IJDAR_Articles_Classification
-Classifying academic papers from International Journal on Document Analysis and Recognition (IJDAR) and comparing the performance of several machine learning algorithms using precision and recall values.  
+Classifying academic papers from [International Journal on Document Analysis and Recognition (IJDAR)](https://www.springer.com/journal/10032) and comparing the performance of several machine learning algorithms using precision and recall values.  
 
 Total no. of documents in the set : 67  
 Documents used for training set : 55  
